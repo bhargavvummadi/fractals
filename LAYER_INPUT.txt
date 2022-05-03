@@ -1,0 +1,17 @@
+#Enter of formation Number of formation layers (n) (This data is ignored for R3D_Penny)
+7
+#Enter the distance (m/ft) of each layer boundary measured from a reference ground point (enter n-1 values) (See manual of illustrative pictures)
+100.
+130.
+160.
+190.
+220.
+250.
+#Enter minimum horizontal stress (Pa/psi),maximum horizontal stress (pa/psi), shear stress (just enter zero),fracture toughness (Pa.m^0.5 or psi.inch^0.5), Young's modulus (pa/psi) and poisson's ratio for each layer (enter n values)
+42e6,45e6,0e6,2e6,35e9,0.25
+39e6,45e6,0e6,2e6,35e9,0.25
+42e6,45e6,0e6,2e6,35e9,0.25
+39e6,45e6,0e6,2e6,35e9,0.25
+42e6,45e6,0e6,2e6,35e9,0.25
+39e6,45e6,0e6,2e6,35e9,0.25
+42e6,45e6,0e6,2e6,35e9,0.25
